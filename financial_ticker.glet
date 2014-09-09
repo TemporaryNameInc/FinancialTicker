@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>osascript ~/Documents/ticker.scpt</string>
+	<string>osascript ~/Documents/FinancialTicker/ticker.scpt</string>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
@@ -100,7 +100,7 @@
 	<key>FontSize</key>
 	<real>19</real>
 	<key>GeekletFrame</key>
-	<string>{{1806.15234375, 345.65625}, {1239, 45}}</string>
+	<string>{{1806, 345}, {1240, 46}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
